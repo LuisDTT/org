@@ -20,7 +20,8 @@ const INITIAL_STATE1 = {
 	booth: '',
 	photo: '',
 	team: '',
-	id: uuid()
+	id: uuid(),
+	like: false
 }
 
 const INITIAL_STATE2 = {
